@@ -1,3 +1,5 @@
+import Main from 'components/Main'
+
 export default function Home() {
-  return <p>Hello World</p>
+  return <Main />
 }
