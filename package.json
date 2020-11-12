@@ -11,6 +11,7 @@
     "test:watch": "yarn test --watch"
   },
   "dependencies": {
+    "jest-styled-components": "^7.0.3",
     "next": "10.0.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
