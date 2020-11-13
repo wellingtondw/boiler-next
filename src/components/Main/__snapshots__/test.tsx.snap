@@ -65,7 +65,7 @@ exports[`<Main /> should render the heading 1`] = `
   <img
     alt="Um desenvolvedor de frente para uma tela com código."
     class="c4"
-    src="/img/hero-illustration.svg"
+    src="/img/hero-ilustration.svg"
   />
 </main>
 `
