@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "jest-styled-components": "^7.0.3",
-    "next": "10.0.1",
+    "next": "10.0.8",
     "next-pwa": "^3.1.5",
     "plop": "^2.7.4",
     "react": "17.0.1",
